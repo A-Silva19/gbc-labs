@@ -5,4 +5,4 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
-  [Weekly Lecture Points](comp1238.md)
+- [Weekly Lecture Points](comp1238.md)
